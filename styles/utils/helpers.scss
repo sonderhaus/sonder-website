@@ -1,0 +1,12 @@
+.container {
+  background: var(--bg-primary);
+  color: var(--fg-primary);
+  box-shadow: inset 0 0 50vw var(--bg-secondary);
+
+  min-height: 100vh;
+  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
